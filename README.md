@@ -18,7 +18,7 @@
 
 ### 👤 &nbsp;About Me
 
-I'm a 2nd year Computer Science student with a passion for developing things
+I'm a 2nd year Computer Science student with a passion for developing things and learning ways to develop it. Started as a frontend developer but took interest in backend, now aspiring to be full-stack.
 
 ```yaml
 status: Learning Tauri and Rust
