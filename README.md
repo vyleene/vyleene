@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi,%I'm%20Luke&fontSize=40&fontColor=FFFFFF&fontAlignY=42&desc=Computer%20Science%20Student&descSize=15&descColor=aaaaaa&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hi,%I'm%20Luke&fontSize=40&fontColor=FFFFFF&fontAlignY=30&desc=Computer%20Science%20Student&descSize=15&descColor=aaaaaa&descAlignY=48&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=15&pause=2500&color=aaaaaa&center=true&vCenter=true&width=580&lines=→+2nd+year+CS+student+figuring+it+all+out;→+aspiring+full-stack+dev+%7C+one+commit+at+a+time" />
 
