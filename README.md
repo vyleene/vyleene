@@ -12,19 +12,19 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 ### 👤 &nbsp;About Me
 
 I'm a 2nd year Computer Science student with a passion for developing things
 
 ```yaml
-status: 2nd year BSCS student
+status: Learning Tauri and Rust
 education:  MSU - Iligan Institute of Technology
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="35%" valign="top">
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -46,6 +46,7 @@ education:  MSU - Iligan Institute of Technology
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </td>
 </tr>
