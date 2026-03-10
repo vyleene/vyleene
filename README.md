@@ -50,8 +50,6 @@ education:  MSU - Iligan Institute of Technology
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-&nbsp;
-
 </td>
 </tr>
 </table>
